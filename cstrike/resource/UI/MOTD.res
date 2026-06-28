@@ -1,0 +1,88 @@
+"Resource/UI/MOTD.res"
+{
+	"ClientMOTD"
+	{
+		"ControlName"		"Frame"
+		"fieldName"		"ClientMOTD"
+		"xpos"		"0"
+		"ypos"		"0"
+		"wide"		"640"
+		"tall"		"480"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"setTitleBarVisible"	"0"
+	}
+	
+	"Message"
+	{
+		"ControlName"		"HTML"
+		"fieldName"		"Message"
+		"xpos"		"130"	//120
+		"ypos"		"116"	//116
+		"wide"		"380"	//340
+		"tall"		"220"	//220
+		"autoResize"		"3"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"0"
+		"tabPosition"		"0"
+	}
+	
+	"bg_ok"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"		"bg_ok"
+		"xpos"		"254"
+		"ypos"		"356"
+		"wide"		"128"
+		"tall"		"20"
+		"visible"		"1"
+		"enabled"		"1"	
+		"image"		"resource/interface3/btn_ok"
+		"scaleimage"		"1"
+	}
+	"ok"
+	{
+		"ControlName"		"Button"
+		"fieldName"		"ok"
+		"xpos"		"254"
+		"ypos"		"356"
+		"wide"		"128"
+		"tall"		"20"
+		"autoResize"		"0"
+		"pinCorner"		"2"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"labelText"		""
+		"textAlignment"		"center"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"Command"		"okay"
+		"Default"		"1"
+	}
+	
+	"serverName"
+	{
+		"ControlName"		"Label"
+		"fieldName"		"serverName"
+		"xpos"		"130"
+		"ypos"		"66"
+		"wide"		"380"
+		"tall"		"24"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"0"
+		"labelText"		"Server Name Goes Here +++ :p"
+		"textAlignment"		"center"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"font"		"Title"
+		"wrap"		"0"
+	}
+}
