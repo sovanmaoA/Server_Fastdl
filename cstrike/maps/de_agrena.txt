@@ -1,0 +1,14 @@
+agrena - Defusion
+made for 2 - 32 Players
+by C.h.i (schong@gmx.net, www.jumpnrun.tk, in 2011,2012)
+Texturepack: I found this textures at Gamebanana, as new textures for de_dust. Thx to the dude who made it :)
+
+Counter-Terrorists: Prevent the Terrorists
+bombing the bomp spots.
+
+Terrorists: Destroy the sensitive places with your c4.
+
+Other Notes: There are 2 bomb sites in this 
+mission. 
+
+(Press FIRE to continue)

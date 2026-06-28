@@ -1,0 +1,3 @@
+6
+weapon			640 Ruby/weapon_zeus		0	0	170	45
+weapon_s		640 Ruby/weapon_zeus		0	0	170	45
